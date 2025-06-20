@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "Kasa",
   "author": "Manuel",
-  "model": "Kasa_2000.tflite",
-  "trained_languages": ["en"],
+  "model": "Kasa.tflite",
+  "trained_languages": ["de"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.9,
