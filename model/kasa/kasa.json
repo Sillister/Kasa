@@ -3,7 +3,7 @@
   "wake_word": "Kasa",
   "author": "Manuel",
   "model": "Kasa_2000.tflite",
-  "trained_languages": ["de"],
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.9,
