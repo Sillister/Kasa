@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Kasa",
   "author": "Manuel",
-  "model": "kasa_2000.tflite",
+  "model": "Kasa_2000.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
