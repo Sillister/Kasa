@@ -1,12 +1,12 @@
 {
   "type": "micro",
   "wake_word": "Kasa",
-  "author": "Manuel",
+  "author": "Sillister",
   "model": "Kasa.tflite",
   "trained_languages": ["de"],
   "version": 1,
   "micro": {
-    "probability_cutoff": 0.8,
+    "probability_cutoff": 0.9,
     "feature_step_size": 10,
     "sliding_window_size": 5,
     "tensor_arena_size": 30000,
